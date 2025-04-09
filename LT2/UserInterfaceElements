@@ -1,4 +1,4 @@
-{
+return {
   "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Robux": {
     "BackgroundColor": "1, 1, 1",
     "TextColor": "0.117647, 0.545098, 0"
