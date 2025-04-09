@@ -1,1 +1,1550 @@
-{"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Robux":{"BackgroundColor":"1, 1, 1","TextColor":"0.117647, 0.545098, 0"},"PlayerGui.DonateGUI.Donate.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.DonateGUI.Donate.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Main.NoteHeading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.DonateClient.PlayerItem":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"Black"},"PlayerGui.ChangelogGUI.Changelog.Main.NextPage":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemInfoGUI.Info.Main.Delete":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemDraggingGUI.TouchEndDrag":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemInfoGUI.Info.Main.InfoLine2Name":{"BackgroundColor":"1, 1, 1","TextColor":"0.4, 0.4, 0.4"},"PlayerGui.DonateGUI.Donate.Main.IncreaseAmount":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"Really black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.StructureDraggingGUI.Rotate":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.WireDraggingGUI.Confirm.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.MenuGUI.Menu.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Confirm.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.WireDraggingGUI.Finalize.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.WireDraggingGUI.Confirm.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ChangelogGUI.Changelog.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ItemInfoGUI.Info.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ServerInitializing.Label":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.Progress.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ChatGUI.Chat.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.WireDraggingGUI.Back.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.CreditsGUI.Credits.Main.NextPage.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.CreditsGUI.Credits.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.OwnerMessage.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0.92549, 0.572549, 0"},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Quit.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Drop":{"BackgroundColor":"0.862745, 0.862745, 0.862745","BackgroundTransparency":0},"PlayerGui.BuyMoneyGUI.BuyMoney.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.DeleteSlot":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.DeleteSlot.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0.188235, 0.188235, 0.188235"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChatGUI.NPCBillboard.Frame.DropShadow.Arrow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChatGUI.PromptChat.PromptText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.Aux.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.SlotList":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.Progress.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ChatGUI.Chat":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ItemInfoGUI.Info.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.VehicleControl.TouchLightsToggle.PromptText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.WireDraggingGUI.Finalize.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Main.ItemName":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Menu.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button.Tick":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.Set":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ChangelogGUI.Changelog.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.OnboardingGUI.Onboarding.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ChangelogGUI.Changelog.Main.PageCount":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.StructureDraggingGUI.Confirm.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChatGUI.NPCBillboard.Frame.Arrow":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Main.List1Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.BuyMoney":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.NoticeGUI.OwnerMessage.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotList.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ThumbnailFrame.Frame.occuldeRight":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ThumbnailFrame.Frame":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ChatGUI.NPCBillboard.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChangelogGUI.Changelog":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SlotName":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate.Main.UsersList.ScrollingFrame.UserButton":{"BackgroundColor":"0.87451, 0.87451, 0.87451","TextColor":"Really black"},"PlayerGui.WireDraggingGUI.Finalize.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemDraggingGUI.CanRotate":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.Time":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.InteractionGUI.Prompt.PromptText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.BuyMoney.TextLabel":{"BackgroundColor":"0.431373, 0.862745, 0.431373","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate.Main.GetModeration":{"BackgroundColor":"0.87451, 0.87451, 0.87451","TextColor":"Really black"},"PlayerGui.ItemInfoGUI.Info.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.StructureDraggingGUI.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemInfoGUI.Info.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.CreditsGUI.Credits.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.ServerInitializing.Label.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Menu.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.NoticeGUI.Notice.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.MenuGUI.Open":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ThumbnailFrame.Frame.occludeLeft":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.ChatGUI.Chat.Choices":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ItemDraggingGUI.CanDrag.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Turn.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.StructureDraggingGUI.Confirm.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate.Main.InfoBox":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.StructureDraggingGUI.Rotate.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.MenuGUI.Open.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Credits.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.Aux.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotList.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.OnboardingGUI.Onboarding.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.SizeLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.InteractionGUI.Prompt":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu.Main.MenuItems.SaveLoad.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.List2Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.SettingsClient.SettingItem":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ItemDraggingGUI.CanRotate.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.Aux.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.InteractionGUI.OwnerShow.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Confirm":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.SlotName":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ItemDraggingGUI.CanRotate.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button.Tick":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.CreditsGUI.Credits.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Info":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.WireDraggingGUI.Finalize":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ModerateGUI.Moderate.Main.UsersList.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.SettingsGUI.Settings.Main.SettingsList.List":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ModerateGUI.Moderate.Main.UsersList":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Main.InfoBox.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Main.BanButton":{"BackgroundColor":"0.827451, 0.47451, 0.309804","TextColor":"Really black"},"PlayerGui.LoadSaveGUI.Progress.Main.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate.Main.UserHeading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.InteractionGUI.OwnerShow":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Quit.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ModerateGUI.Moderate.Main.PermCheck":{"BackgroundColor":"0.87451, 0.87451, 0.87451","TextColor":"Really black"},"PlayerGui.OnboardingGUI.Onboarding.Main.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Changelog":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Money":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu.Main.MenuItems.SaveLoad":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.CreditsGUI.Credits.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.VehicleControl.TouchLightsToggle":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.StructureDraggingGUI.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Settings":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample.ItemName":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.SettingsGUI.Settings.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.StructureDraggingGUI.Confirm":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MoneyDisplayGui.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0.270588, 0.819608, 0.333333"},"PlayerGui.Blueprints.Main.BlueprintScroll.Items":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample.ItemName":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.IsCurrentSlot":{"BackgroundColor":"1, 1, 1","TextColor":"0.921569, 0.921569, 0.921569"},"PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample":{"BackgroundColor":"0.709804, 0.729412, 0.8","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Main.InfoLine2Value":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.Blueprints.Main.CategoryScroll.Items":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.Blueprints.Main.TextLabel.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.NoticeGUI.Notice.Main.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.Blueprints.Main":{"BackgroundColor":"0.176471, 0.211765, 0.427451","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.TimeLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.BuyMoneyGUI.BuyMoney.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.BuyMoneyGUI.BuyMoney.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.CreditsGUI.Credits.Main.NextPage":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Main.UnbanButton":{"BackgroundColor":"0.827451, 0.780392, 0.172549","TextColor":"Really black"},"PlayerGui.LoadSaveGUI.SlotInfo":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ModerateGUI.Moderate.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotInfo.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.InteractionGUI.OwnerShow.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Drop":{"BackgroundColor":"0.862745, 0.862745, 0.862745","BackgroundTransparency":0},"PlayerGui.ItemInfoGUI.Info.Main.Type":{"BackgroundColor":"1, 1, 1","TextColor":"0.4, 0.4, 0.4"},"PlayerGui.MenuGUI.Menu.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PlaceVersionGUI.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Robux":{"BackgroundColor":"1, 1, 1","TextColor":"0.117647, 0.545098, 0"},"PlayerGui.ItemDraggingGUI.CanRotate.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ChangelogGUI.Changelog.Main.List.Item":{"BackgroundColor":"0.933333, 0.882353, 0.847059","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotInfo.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.OnboardingGUI.Onboarding.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Confirm.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Main.InfoLine1Name":{"BackgroundColor":"1, 1, 1","TextColor":"0.4, 0.4, 0.4"},"PlayerGui.LoadSaveGUI.OverwriteConfirm":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.TimeLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ChangelogGUI.Changelog.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.NoticeGUI.OwnerMessage":{"BackgroundColor":"1, 0.219608, 0.819608","BackgroundTransparency":0},"PlayerGui.ChangelogGUI.Changelog.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.DonateGUI.DonateClient.PlayerItem.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Main.Move":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ChangelogGUI.Changelog.Main.PreviousPage":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.NoticeGUI.OwnerMessage.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.Time":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ChangelogGUI.Changelog.Main.NextPage.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.Settings.Main.PlayerList.IsEmpty":{"BackgroundColor":"1, 1, 1","TextColor":"0.517647, 0.517647, 0.517647"},"PlayerGui.SettingsGUI.Settings.Main.GlobalSettings":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ChangelogGUI.Changelog.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.ChangelogGUI.Changelog.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ChatGUI.NPCBillboard.Frame.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.WireDraggingGUI.Back.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ChatGUI.NPCBillboard.Frame":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ItemDraggingGUI.TouchRotate.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ChatGUI.Chat.Choices.ChatChoice":{"BackgroundColor":"1, 1, 1","TextColor":"Really black"},"PlayerGui.Lighting.Frame":{"BackgroundColor":"1, 1, 0.482353","BackgroundTransparency":1},"PlayerGui.SettingsGUI.Settings.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ChatGUI.PromptChat":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.CreditsGUI.Credits.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.TouchControlItem.Text":{"BackgroundColor":"1, 1, 1","TextColor":"0.188235, 0.188235, 0.188235"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Money":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Changelog.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Main.Pass.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.CreditsGUI.Credits.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.TargetGui.Cross":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.CreditsGUI.Credits.Main.PageCount":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.CreditsGUI.Credits.Main.PreviousPage.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.ItemDraggingGUI.TouchRotate.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.CreditsGUI.Credits.Main.PreviousPage":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.DonateGUI.Donate.Main.PlayerList.List":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.BuyMoneyGUI.BuyMoney.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.SlotName":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.Aux":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.CreditsGUI.Credits.Main.List.Item":{"BackgroundColor":"0.933333, 0.882353, 0.847059","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemInfoGUI.Info.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.CreditsGUI.Credits.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.CreditsGUI.Credits":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.DonateGUI.Donate":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.DonateGUI.Donate.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.WireDraggingGUI.Back":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.PlayerList.IsEmpty":{"BackgroundColor":"1, 1, 1","TextColor":"0.517647, 0.517647, 0.517647"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.ConfirmDonation":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"Really black"},"PlayerGui.DonateGUI.Donate.Main.DecreaseAmount":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"Really black"},"PlayerGui.WireDraggingGUI.Confirm.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.InteractionGUI.Prompt.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotList.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.NoticeGUI.Notice.Main.Aux.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemInfoGUI.Info.Main.Move.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ModerateGUI.Moderate.Main.PermHeading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.Blueprints.Main.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.866667, 0.870588, 1"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Credits":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.TouchPosition":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.TargetGui.Cross.Frame":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0.5},"PlayerGui.ItemDraggingGUI.CanDrag":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.InteractionGUI.TouchDropTool.PromptText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.InteractionGUI.TouchDropTool":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.CreditsGUI.Credits.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.DonateGUI.Donate.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SizeV":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MoneyDisplayGui.Text.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.DonateGUI.Donate.Main.List1Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.Load":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotList.Main.Pass":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.StructureDraggingGUI.Turn.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.InteractionGUI.Prompt.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.OnboardingGUI.Onboarding.Main.TouchControlItem":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.Get":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Confirm.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ItemDraggingGUI.TouchRotate":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ItemDraggingGUI.TouchEndDrag.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemDraggingGUI.TouchEndDrag.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.NoticeGUI.OwnerMessage.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.OnboardingGUI.Onboarding.Main.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemDraggingGUI.CanDrag.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ItemDraggingGUI.CanDrag.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.InteractionGUI.TouchDropTool.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Settings.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.Aux.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Rotate.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.Load.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.Save.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.NoticeGUI.Notice.Main.Aux":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SizeLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.CreditsGUI.Credits.Main.List":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Confirm":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.OnboardingGUI.Onboarding.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.ItemInfoGUI.Info.Main.InfoLine1Value":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Open.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.SettingsClient.PlayerItem":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"Black"},"PlayerGui.ChangelogGUI.Changelog.Main.List":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.WireDraggingGUI.Back.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChangelogGUI.Changelog.Main.PreviousPage.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ServerInitializing.Label.LoadCount":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.ChangelogGUI.Changelog.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.ItemInfoGUI.Info.Main.Description":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.BuyMoneyGUI.BuyMoney.Main.Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ServerInitializing.Label.BottomLabel":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.LoadSaveGUI.Progress":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ServerInitializing.Label.TreeCount":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.ItemInfoGUI.Info":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.ChatGUI.PromptChat.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.LoadSaveGUI.SlotInfo.Main.SlotName":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.StructureDraggingGUI.Quit.TouchPosition":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.DeleteConfirm":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.SettingsGUI.Settings.Main.List2Heading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.ServerInitializing.Label.AssetCount":{"BackgroundColor":"1, 1, 1","TextColor":"1, 1, 1"},"PlayerGui.SettingsGUI.Settings.Main.PlayerList.List":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.WireDraggingGUI.Confirm":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.SettingsGUI.Settings.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.MenuGUI.Open.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.WireDraggingGUI.Back.TouchPosition":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.Blueprints.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.ChangelogGUI.Changelog.Main.Heading.DropShadow":{"BackgroundColor":"1, 1, 1","TextColor":"0.513726, 0.513726, 0.513726"},"PlayerGui.BuyMoneyGUI.BuyMoney":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right.PromptText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.VehicleControl.TouchLightsToggle.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Quit.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.LoadSaveGUI.SlotInfo.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.SizeV":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.OnboardingGUI.Onboarding.Main.BodyText":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.PlatformButton.KeyLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0.105882, 0.164706, 0.207843"},"PlayerGui.StructureDraggingGUI.Turn":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.NoticeGUI.Notice.Main.Quit":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ChatGUI.PromptChat.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotInfo.Main.Save":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.MenuGUI.Menu.Main.MenuItems":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":1},"PlayerGui.LoadSaveGUI.SlotInfo.Main.IsCurrentSlot":{"BackgroundColor":"1, 1, 1","TextColor":"0.921569, 0.921569, 0.921569"},"PlayerGui.ItemInfoGUI.Info.Main.Delete.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem":{"BackgroundColor":"0.933333, 0.882353, 0.847059","TextColor":"Black"},"PlayerGui.LoadSaveGUI.SlotList.Main.Info":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.StructureDraggingGUI.Rotate.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.SettingsGUI.SettingsClient.PlayerItem.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.NoticeGUI.Notice.Main.Quit.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.LoadSaveGUI.SlotList.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Donate":{"BackgroundColor":"1, 1, 1","TextColor":"Black"},"PlayerGui.ModerateGUI.Moderate.Main.DurationHeading":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.StructureDraggingGUI.Turn.TextLabel":{"BackgroundColor":"1, 1, 1","TextColor":"0, 0, 0"},"PlayerGui.MenuGUI.Menu.Main.MenuItems.Donate.TextLabel":{"BackgroundColor":"0.862745, 0.862745, 0.862745","TextColor":"0, 0, 0"},"PlayerGui.ModerateGUI.Moderate.Quit.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.SettingsGUI.Settings.Main":{"BackgroundColor":"1, 1, 1","BackgroundTransparency":0},"PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.OnboardingGUI.Onboarding.Main.Aux.DropShadow":{"BackgroundColor":"0, 0, 0","BackgroundTransparency":0},"PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample":{"BackgroundColor":"0.709804, 0.729412, 0.8","TextColor":"Black"}}
+{
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Robux": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.117647, 0.545098, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.DonateGUI.Donate.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.NoteHeading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.DonateClient.PlayerItem": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.NextPage": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Delete": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemDraggingGUI.TouchEndDrag": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.InfoLine2Name": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.4, 0.4, 0.4"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.IncreaseAmount": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.StructureDraggingGUI.Rotate": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.WireDraggingGUI.Confirm.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Confirm.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.WireDraggingGUI.Finalize.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.WireDraggingGUI.Confirm.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemInfoGUI.Info.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ServerInitializing.Label": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.Progress.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChatGUI.Chat.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.WireDraggingGUI.Back.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.NextPage.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.OwnerMessage.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.92549, 0.572549, 0"
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Quit.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Drop": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.DeleteSlot": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.DeleteSlot.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.ControlItem.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.188235, 0.188235, 0.188235"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChatGUI.NPCBillboard.Frame.DropShadow.Arrow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChatGUI.PromptChat.PromptText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Aux.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.SlotList": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.Progress.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChatGUI.Chat": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.VehicleControl.TouchLightsToggle.PromptText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.WireDraggingGUI.Finalize.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.ItemName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Menu.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button.Tick": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.Set": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.PageCount": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.StructureDraggingGUI.Confirm.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChatGUI.NPCBillboard.Frame.Arrow": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.List1Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.BuyMoney": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.OwnerMessage.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ThumbnailFrame.Frame.occuldeRight": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ThumbnailFrame.Frame": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ChatGUI.NPCBillboard.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SlotName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.UsersList.ScrollingFrame.UserButton": {
+    "BackgroundColor": "0.87451, 0.87451, 0.87451",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.WireDraggingGUI.Finalize.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.CanRotate": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.Time": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.InteractionGUI.Prompt.PromptText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.BuyMoney.TextLabel": {
+    "BackgroundColor": "0.431373, 0.862745, 0.431373",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.GetModeration": {
+    "BackgroundColor": "0.87451, 0.87451, 0.87451",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.StructureDraggingGUI.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.ServerInitializing.Label.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.NoticeGUI.Notice.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Open": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ThumbnailFrame.Frame.occludeLeft": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.ChatGUI.Chat.Choices": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ItemDraggingGUI.CanDrag.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Turn.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Confirm.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.InfoBox": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.StructureDraggingGUI.Rotate.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Open.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Credits.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Aux.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.SizeLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.InteractionGUI.Prompt": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.SaveLoad.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.List2Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.SettingItem": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ItemDraggingGUI.CanRotate.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Aux.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.InteractionGUI.OwnerShow.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Confirm": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.SlotName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.SettingItem.Button.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ItemDraggingGUI.CanRotate.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button.Tick": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.CreditsGUI.Credits.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Info": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.WireDraggingGUI.Finalize": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.UsersList.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.SettingsList.List": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.UsersList": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.InfoBox.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.BanButton": {
+    "BackgroundColor": "0.827451, 0.47451, 0.309804",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.Progress.Main.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.UserHeading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.InteractionGUI.OwnerShow": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Quit.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.PermCheck": {
+    "BackgroundColor": "0.87451, 0.87451, 0.87451",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Changelog": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item.Money": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.SaveLoad": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.VehicleControl.TouchLightsToggle": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.StructureDraggingGUI.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Settings": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample.ItemName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.SettingsGUI.Settings.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.StructureDraggingGUI.Confirm": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MoneyDisplayGui.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.270588, 0.819608, 0.333333"
+  },
+  "PlayerGui.Blueprints.Main.BlueprintScroll.Items": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample.ItemName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.IsCurrentSlot": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.921569, 0.921569, 0.921569"
+  },
+  "PlayerGui.Blueprints.Main.BlueprintScroll.Items.Sample": {
+    "BackgroundColor": "0.709804, 0.729412, 0.8",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.InfoLine2Value": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.Blueprints.Main.CategoryScroll.Items": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.Blueprints.Main.TextLabel.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.Blueprints.Main": {
+    "BackgroundColor": "0.176471, 0.211765, 0.427451",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.TimeLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.NextPage": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.UnbanButton": {
+    "BackgroundColor": "0.827451, 0.780392, 0.172549",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ModerateGUI.Moderate.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.InteractionGUI.OwnerShow.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Drop": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Type": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.4, 0.4, 0.4"
+  },
+  "PlayerGui.MenuGUI.Menu.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PlaceVersionGUI.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Robux": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.117647, 0.545098, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.CanRotate.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.List.Item": {
+    "BackgroundColor": "0.933333, 0.882353, 0.847059",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.Confirm.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.InfoLine1Name": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.4, 0.4, 0.4"
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.TimeLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.OwnerMessage": {
+    "BackgroundColor": "1, 0.219608, 0.819608",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.DonateGUI.DonateClient.PlayerItem.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Move": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.PreviousPage": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.OwnerMessage.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.Time": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.NextPage.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.PlayerList.IsEmpty": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.517647, 0.517647, 0.517647"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.GlobalSettings": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChatGUI.NPCBillboard.Frame.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.WireDraggingGUI.Back.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ChatGUI.NPCBillboard.Frame": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemDraggingGUI.TouchRotate.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ChatGUI.Chat.Choices.ChatChoice": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.Lighting.Frame": {
+    "BackgroundColor": "1, 1, 0.482353",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ChatGUI.PromptChat": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.CreditsGUI.Credits.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.TouchControlItem.Text": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.188235, 0.188235, 0.188235"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Item1.Money": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Changelog.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.Pass.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.CreditsGUI.Credits.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.TargetGui.Cross": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.PageCount": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.PreviousPage.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.TouchRotate.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.PreviousPage": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.PlayerList.List": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.SlotName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Aux": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.List.Item": {
+    "BackgroundColor": "0.933333, 0.882353, 0.847059",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.CreditsGUI.Credits": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.DonateGUI.Donate": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.DonateGUI.Donate.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.WireDraggingGUI.Back": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.PlayerList.IsEmpty": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.517647, 0.517647, 0.517647"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.ConfirmDonation": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.DecreaseAmount": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.WireDraggingGUI.Confirm.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.InteractionGUI.Prompt.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Aux.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Move.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Purchase.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.PermHeading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.Blueprints.Main.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.866667, 0.870588, 1"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Credits": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.TouchPosition": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.TargetGui.Cross.Frame": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0.5
+  },
+  "PlayerGui.ItemDraggingGUI.CanDrag": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.InteractionGUI.TouchDropTool.PromptText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.InteractionGUI.TouchDropTool": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.CreditsGUI.Credits.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SizeV": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MoneyDisplayGui.Text.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.DonateGUI.Donate.Main.List1Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.Load": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.Pass": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.StructureDraggingGUI.Turn.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.InteractionGUI.Prompt.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.TouchControlItem": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.Get": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Confirm.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemDraggingGUI.TouchRotate": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ItemDraggingGUI.TouchEndDrag.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.TouchEndDrag.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.NoticeGUI.OwnerMessage.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.CanDrag.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ItemDraggingGUI.CanDrag.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.InteractionGUI.TouchDropTool.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Settings.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Aux.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Rotate.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.Load.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.Save.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Cost.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.GlobalSettings.SettingItem.Button": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Aux": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem.SizeLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.CreditsGUI.Credits.Main.List": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm.Main.Confirm": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.InfoLine1Value": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Open.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.PlayerItem": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.List": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.WireDraggingGUI.Back.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.PreviousPage.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ServerInitializing.Label.LoadCount": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Description": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney.Main.Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ServerInitializing.Label.BottomLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.LoadSaveGUI.Progress": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Cost.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ServerInitializing.Label.TreeCount": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.ItemInfoGUI.Info": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.ChatGUI.PromptChat.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.SlotName": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.StructureDraggingGUI.Quit.TouchPosition": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.DeleteConfirm": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.List2Heading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ServerInitializing.Label.AssetCount": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "1, 1, 1"
+  },
+  "PlayerGui.SettingsGUI.Settings.Main.PlayerList.List": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.WireDraggingGUI.Confirm": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.SettingsGUI.Settings.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Open.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.WireDraggingGUI.Back.TouchPosition": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.OverwriteConfirm.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.Blueprints.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChangelogGUI.Changelog.Main.Heading.DropShadow": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.513726, 0.513726, 0.513726"
+  },
+  "PlayerGui.BuyMoneyGUI.BuyMoney": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right.PromptText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.VehicleControl.TouchLightsToggle.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Quit.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.SizeV": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.BodyText": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.ConfirmPurchase.Purchase.PlatformButton.KeyLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Turn": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Quit": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Right": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ChatGUI.PromptChat.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.Save": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 1
+  },
+  "PlayerGui.LoadSaveGUI.SlotInfo.Main.IsCurrentSlot": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.921569, 0.921569, 0.921569"
+  },
+  "PlayerGui.ItemInfoGUI.Info.Main.Delete.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.SlotItem": {
+    "BackgroundColor": "0.933333, 0.882353, 0.847059",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main.Info": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Rotate": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.StructureDraggingGUI.Rotate.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.SettingsGUI.SettingsClient.PlayerItem.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.NoticeGUI.Notice.Main.Quit.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.LoadSaveGUI.SlotList.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Donate": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Main.DurationHeading": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.StructureDraggingGUI.Turn.TextLabel": {
+    "BackgroundColor": "1, 1, 1",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.MenuGUI.Menu.Main.MenuItems.Donate.TextLabel": {
+    "BackgroundColor": "0.862745, 0.862745, 0.862745",
+    "TextColor": "0, 0, 0"
+  },
+  "PlayerGui.ModerateGUI.Moderate.Quit.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.SettingsGUI.Settings.Main": {
+    "BackgroundColor": "1, 1, 1",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.PropertyPurchasingGUI.SelectPurchase.Left.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.OnboardingGUI.Onboarding.Main.Aux.DropShadow": {
+    "BackgroundColor": "0, 0, 0",
+    "BackgroundTransparency": 0
+  },
+  "PlayerGui.Blueprints.Main.CategoryScroll.Items.Sample": {
+    "BackgroundColor": "0.709804, 0.729412, 0.8",
+    "TextColor": "0.105882, 0.164706, 0.207843"
+  }
+}
